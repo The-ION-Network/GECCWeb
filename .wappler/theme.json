@@ -1,0 +1,11 @@
+{
+  "bootstrap5": {
+    "basic": {
+      "headings-font-family": "Inter:600",
+      "font-family-base": "Inter:400",
+      "font-family-sans-serif": "Georgia:400",
+      "font-family-monospace": "Tahoma:400"
+    },
+    "advanced": {}
+  }
+}
